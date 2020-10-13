@@ -1,0 +1,7 @@
+numpy
+matplotlib
+ipywidgets
+nbinteract
+netCDF4
+scipy
+geemap
