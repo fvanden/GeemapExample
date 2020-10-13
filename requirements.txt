@@ -4,4 +4,5 @@ ipywidgets
 nbinteract
 netCDF4
 scipy
+xarray
 geemap
