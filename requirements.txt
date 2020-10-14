@@ -5,4 +5,5 @@ nbinteract
 netCDF4
 scipy
 xarray
+voila
 geemap
